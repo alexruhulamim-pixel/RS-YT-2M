@@ -1,0 +1,6 @@
+{
+  "name": "Daily Redeem Codes",
+  "description": "Browse, copy, test, and redeem daily gift codes for Google Play, Free Fire, game top-ups, and bundles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

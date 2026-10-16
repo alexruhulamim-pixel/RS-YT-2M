@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Daily Redeem Codes</string>
+    <string name="header_title">Daily Redeem Codes</string>
+    <string name="header_subtitle_bn">নিচের যেকোনো রিডিম কোড কপি করে রিডিম করুন</string>
+    <string name="footer_note_bn">কোডগুলি সীমিত সময়ের জন্য প্রযোজ্য। দ্রুত রিডিম করুন!</string>
+    <string name="copied">কপি হয়েছে!</string>
+    <string name="copy">Copy</string>
+    <string name="redeem_now">Redeem Now</string>
+    <string name="all_categories">All</string>
+    <string name="google_play">Google Play</string>
+    <string name="free_fire">Free Fire</string>
+    <string name="gaming">Gaming</string>
+    <string name="favorites">Saved</string>
+</resources>
